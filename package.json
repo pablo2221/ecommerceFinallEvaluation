@@ -1,0 +1,27 @@
+{
+  "name": "ecommerce-final-evaluation",
+  "version": "1.0.0",
+  "description": "JS Workshop Final Evaluation project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Pablo Quiros Herrera",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/register": "^7.5.5",
+    "@wdio/cli": "^5.11.13",
+    "@wdio/local-runner": "^5.11.13",
+    "@wdio/mocha-framework": "^5.11.0",
+    "@wdio/selenium-standalone-service": "^5.11.2",
+    "@wdio/spec-reporter": "^5.11.7",
+    "@wdio/sync": "^5.11.13",
+    "chai": "^4.2.0",
+    "chromedriver": "^76.0.0",
+    "wdio-chromedriver-service": "^5.0.2",
+    "@rpii/wdio-html-reporter": "~0.5.0"
+  }
+}
