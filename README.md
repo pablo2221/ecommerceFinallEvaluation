@@ -1,5 +1,5 @@
 # E-commerce Final Evaluation Project
-WebdriverIO project for E-commerce website
+WebdriverIO project for E-commerce website using Webdriver IO and the Page Objects Model
 
 Required to run this project
 
